@@ -13,4 +13,6 @@
 
 [《大型分布式网站的思考(三)：缓存》](https://github.com/zhenfeng-zhu/articles/issues/5)
 
-[《大型分布式网站的思考(三)：负载均衡》](https://github.com/zhenfeng-zhu/articles/issues/7)
+[《大型分布式网站的思考(四)：负载均衡》](https://github.com/zhenfeng-zhu/articles/issues/7)
+
+[《大型分布式网站的思考(五)：高可用》](https://github.com/zhenfeng-zhu/articles/issues/8)
